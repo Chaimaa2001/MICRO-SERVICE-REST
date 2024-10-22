@@ -1,3 +1,4 @@
+<h3>Partie SPRING DATA REST ET REST API</h3>
 <img src="./IMAGES/img.png">
 <img src="./IMAGES/img_1.png">
 <img src="./IMAGES/img_2.png">
@@ -19,3 +20,19 @@
 <img src="./IMAGES/img_18.png">
 <img src="./IMAGES/img_19.png">
 <img src="./IMAGES/img_20.png">
+<h3>Partie GraphQL</h3>
+<img src="./IMAGES/img_21.png">
+<img src="./IMAGES/img_22.png">
+<img src="./IMAGES/img_23.png">
+<img src="./IMAGES/img_24.png">
+<img src="./IMAGES/img_25.png">
+<img src="./IMAGES/img_26.png">
+<img src="./IMAGES/img_27.png">
+<img src="./IMAGES/img_28.png">
+<img src="./IMAGES/img_29.png">
+<img src="./IMAGES/img_30.png">
+<img src="./IMAGES/img_31.png">
+<img src="./IMAGES/img_32.png">
+<img src="./IMAGES/img_33.png">
+<img src="./IMAGES/img_34.png">
+<img src="./IMAGES/img_35.png">
